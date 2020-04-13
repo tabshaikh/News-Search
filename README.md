@@ -11,7 +11,7 @@ and analyse how many articles were published in the last 5 years in a graphical 
 ![image2](https://user-images.githubusercontent.com/31198893/79095825-15e40000-7d79-11ea-8c6f-7c03b1f8a00e.png)
 3. You can navigate through the table contents using the pagination bar at the bottom of the table 
 ![image3](https://user-images.githubusercontent.com/31198893/79095818-0f558880-7d79-11ea-99b6-ec4088a5d330.png)
-4. You can view the graph of number of articles published / year by scrolling below:
+4. You can view the graph of number of articles published / year by scrolling at the bottom of the page:
 ![image4](https://user-images.githubusercontent.com/31198893/79095830-1a101d80-7d79-11ea-9ed4-843f7b4b82b2.png)
 
 ## Getting started with this Repository:
