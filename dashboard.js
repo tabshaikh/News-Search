@@ -19,7 +19,7 @@ function runQuery(queryURL){
 			$("#wellSection").html("");
 			// Here we are logging the URL so we have access to it for troubleshooting
 			// console.log("------------------------------------")
-			console.log("URL: " + queryURL);
+			// console.log("URL: " + queryURL);
 			// console.log("------------------------------------")
 			// console.log(NYTData);
 			// console.log("------------------------------------")		
@@ -55,7 +55,6 @@ function displayGraph(searchTerm){
 	}
 		
 		var ctx = document.getElementById('myChart')
-			// eslint-disable-next-line no-unused-vars
 			var myChart = new Chart(ctx, {
 			type: 'line',
 			data: {
